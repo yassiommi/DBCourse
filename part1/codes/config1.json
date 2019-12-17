@@ -1,0 +1,8 @@
+{
+  "mysql": {
+    "host": "localhost",
+    "user": "root",
+    "password": "        "
+  },
+  "data": "./data/product_list.xlsx"
+}
